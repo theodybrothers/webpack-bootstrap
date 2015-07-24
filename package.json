@@ -1,0 +1,29 @@
+{
+  "name": "webpack-bootstrap",
+  "version": "0.1.0",
+  "description": "Using Bootstrap with Webpack.",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server --content-base app/ --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theodybrothers/webpack-bootstrap.git"
+  },
+  "author": "Jason Ody",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^5.8.3",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.15.5",
+    "file-loader": "^0.8.4",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.10.3",
+    "webpack-dev-server": "^1.10.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.5"
+  }
+}
