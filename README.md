@@ -6,4 +6,4 @@ Importing Bootstrap's CSS with Webpack without worrying about jQuery.
 ``npm install``  
 ``npm run dev``  
 
-Open your favorite browser and navigate to http://localhost:8080.
+Open your favorite browser and navigate to <http://localhost:8080>.
