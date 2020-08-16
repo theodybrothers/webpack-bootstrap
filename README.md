@@ -1,7 +1,7 @@
-#webpack-bootstrap
+# webpack-bootstrap
 Importing Bootstrap's CSS with Webpack without worrying about jQuery.
 
-##Instructions
+## Instructions
 
 ``npm install``  
 ``npm run dev``  
